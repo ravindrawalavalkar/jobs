@@ -1,1 +1,1 @@
-get-services -Name "BITS"
+get-services "BITS"
