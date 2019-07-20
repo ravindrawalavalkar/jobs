@@ -1,1 +1,1 @@
-$env:name= get-service
+get-service
