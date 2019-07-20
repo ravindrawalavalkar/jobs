@@ -1,1 +1,1 @@
-get-service "BITS"
+$env:name= get-services
