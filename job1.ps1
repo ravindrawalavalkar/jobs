@@ -1,1 +1,1 @@
-get-servic -Name "BITS"
+get-servic "BITS"
